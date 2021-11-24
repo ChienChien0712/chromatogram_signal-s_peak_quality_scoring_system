@@ -42,9 +42,9 @@ Unfortunately, there is no standard method to solve these matters so far. As a r
 
 ![intensity](./images/intensity.png)
 
-6. HWFM (Full width at half maximum)
+6. FWHM (Full width at half maximum)
 
-![HWFM](./images/HWFM.png)
+![FWHM](./images/FWHM.png)
 
 7. Area Ratio
 
